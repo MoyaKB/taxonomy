@@ -20,7 +20,7 @@ seed_examples:
      Yes, in Hursley House there is a Museum, that covers the history of IBM Hursley Park, IBM UK, and IBM Corp.
  - question: Is Hursley House a listed building
    answer: |
-     Yes, it is an offical listed building
+     Yes, it is an offical listed building.
 document:
  repo: https://github.com/MoyaKB/ilab-repo.git
  commit: 472b3ef
